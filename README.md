@@ -2,7 +2,7 @@
 
 We introduce a new environment, Relational-Grid-World (RGW), which is complex in terms of 
 visual perceptions and combinatorial selections. RGW has 10x10 pixels and contains eight objects, which can
-be regenerated procedurally (Figure 3-b to Figure 3-e). It is fully observable, and the agent can go up, down,
+be regenerated procedurally. It is fully observable, and the agent can go up, down,
 right and left directions one grid at a time. The complexity of the environment can be adjusted by playing with
 the state space size (grid size) and the number of repetitions of the objects. The interdependent objects must 
 be used in the correct order by the agent when necessary in order to solve the environment in an optimum way.
