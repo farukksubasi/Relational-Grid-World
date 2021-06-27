@@ -7,7 +7,7 @@ right and left directions one grid at a time. The complexity of the environment 
 the state space size (grid size) and the number of repetitions of the objects. The interdependent objects must 
 be used in the correct order by the agent when necessary in order to solve the environment in an optimum way.
 
-Detailed explanation can be found from https://journals.tubitak.gov.tr/elektrik/issues/elk-21-29-2/elk-29-2-49-2008-94.pdf
+Detailed explanation can be found from https://journals.tubitak.gov.tr/elektrik/abstract.htm?id=28950
 
 # Citing Relational-Grid-World
 
@@ -18,5 +18,4 @@ Detailed explanation can be found from https://journals.tubitak.gov.tr/elektrik/
       author={Küçüksubaşi, Faruk and Sürer, Elif}, 
       year={2021}
 }
-
 ```
