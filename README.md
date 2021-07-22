@@ -15,7 +15,7 @@ Detailed explanation can be found from https://journals.tubitak.gov.tr/elektrik/
 @article{küçüksubaşi_sürer_2021, 
       title={Relational-grid-world: a novel relational reasoning environment and an agent model for relational information extraction},
       journal={Turkish Journal Of Electrical Engineering & Computer Sciences}, 
-      author={Küçüksubaşi, Faruk and Sürer, Elif}, 
+      author={Küçüksubaşı, Faruk and Sürer, Elif}, 
       year={2021}
 }
 ```
